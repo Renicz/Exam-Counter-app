@@ -1,0 +1,8 @@
+{
+  "name": "Exam Countdown Pro",
+  "description": "Professional exam countdown tracker, study planner, and analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
